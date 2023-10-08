@@ -1,0 +1,4 @@
+1 a 18 mate
+2 b 19 ai
+3 c 21 info
+4 d 20 info
